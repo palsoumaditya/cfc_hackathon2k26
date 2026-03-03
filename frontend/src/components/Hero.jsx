@@ -86,7 +86,7 @@ const Hero = () => {
             <div
               class="apply-button"
               data-hackathon-slug="code-for-change-2026"
-              data-button-theme="light"
+              data-button-theme="dark"
               style={{ height: "44px", width: "312px" }}
             ></div>
 
