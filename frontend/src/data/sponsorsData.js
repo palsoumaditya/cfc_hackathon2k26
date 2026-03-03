@@ -1,12 +1,12 @@
 import CommingSoon from "../assets/st-Coming-Soon.png";
-
+import Devfolio from "../assets/DEVFOLIO_LOGO.png";
 
 const sponsorsData = {
     platinum: [
         { name: 'Coming Soon', logo: CommingSoon },
     ],
     gold: [
-        { name: 'Coming Soon', logo: CommingSoon },
+        { name: 'Devfolio', logo: Devfolio },
         { name: 'Coming Soon', logo: CommingSoon },
 
     ],
