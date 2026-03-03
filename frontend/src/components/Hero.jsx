@@ -4,7 +4,7 @@ import bgImage from "../assets/st-hero-bg.png";
 // import monster4 from '../assets/4.jpg';
 import { Button } from "@mui/material";
 import logo from "../assets/st-text-hero.png";
-import DevfolioLogo from "../assets/devfolioLogo.png";
+import DevfolioLogo from "../assets/devfolio_logo.png";
 const Hero = () => {
   const calculateTimeLeft = () => {
     const difference = +new Date("2026-04-10") - +new Date();
