@@ -3,7 +3,6 @@ import "../styles/hero.css";
 import bgImage from "../assets/st-hero-bg.png";
 import { Button } from "@mui/material";
 import logo from "../assets/st-text-hero.png";
-// import DevfolioLogo from "../assets/devfolio_logo.png";  ❌ remove this
 
 const Hero = () => {
   useEffect(() => {
