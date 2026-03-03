@@ -55,7 +55,7 @@ const Hero = () => {
 
           <div className="hero-buttons fade-in-up delay-3">
             <Button variant="contained" className="register-now" href="https://guide.devfolio.co/docs/guide/apply-with-devfolio-integration">
-              <img src={DevfolioLogo} alt="Devfolio logo" style={{width:"10%"}}></img>Go To Project
+              <img src={DevfolioLogo} alt="Devfolio logo" style={{width:"10%"}}></img>Apply With DevFolio
             </Button>
             <Button variant="outlined" className="view-schedule" href="#timeline">
               View Schedule
