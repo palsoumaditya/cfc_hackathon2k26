@@ -178,7 +178,7 @@ export default function Sponsors() {
                       >
                         <img
                           src={sponsor.logo}
-                          alt={sponsor.name}
+                          alt={sponsor.alt || sponsor.name}
                           className="sponsor-logo-img"
                           style={{ maxHeight: "60px", objectFit: "contain" }}
                         />
